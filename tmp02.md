@@ -1,4 +1,4 @@
-# SourceCodester Petrol Pump Management Software  deletegallery.php  sql injection
+# SourceCodester Petrol Pump Management Software  deleteroom.php  sql injection
 
 # NAME OF AFFECTED PRODUCT(S)
 
