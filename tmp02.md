@@ -1,4 +1,4 @@
-# SourceCodester Petrol Pump Management Software  deleteroom.php  sql injection
+# Online Hotel Reservation System In PHP With Source Code  deleteroom.php  sql injection
 
 # NAME OF AFFECTED PRODUCT(S)
 
